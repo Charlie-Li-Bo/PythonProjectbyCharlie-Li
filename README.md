@@ -1,1 +1,3 @@
-# PythonProjectbyCharlie-Li
+##### PythonProjectbyCharlie-Li
+## FirstBasicPythonProjectCharlieLearned
+# PythonisDifficultbutEntertaining!
